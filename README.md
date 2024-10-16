@@ -1,1 +1,2 @@
 # DiegoLLAURY_SlimeFormer
+Pour ce jeu, j'ai voulu faire un personnage changeant de forme avec une mécanique unique, une forme basique pouvant traverser des plateformes translucide, une forme de carré pouvant sauter et s'accrocher aux murs, une forme parachute pouvant flotter et remonter grâce à du vent. Les interactions entre les niveaux sont un bouton activant et désactivant une porte dans un autre niveau, un interrupteur avec un timer débloquant une mécanique et se conservant entre les niveaux, un changement de forme se conservant entre les niveaux. 
